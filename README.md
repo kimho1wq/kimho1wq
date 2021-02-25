@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### GitHub Stats
 [![kimho1wq's github stats](https://github-readme-stats.vercel.app/api?username=kimho1wq&show_icons=true&include_all_commits=true&count_private=true&title_color=000000&text_color=4C4C4C&icon_color=A6A6A6)](https://github.com/kimho1wq)
 
 <!--
