@@ -1,4 +1,15 @@
 ### Hi there 👋
+
+### GitHub Stats
+[![kimho1wq's github stats](https://github-readme-stats.vercel.app/api?username=kimho1wq&show_icons=true&include_all_commits=true&count_private=true&title_color=000000&text_color=4C4C4C&icon_color=A6A6A6)](https://github.com/kimho1wq)
+
+<!--
+**kimho1wq/kimho1wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimho1wq&hide=Jupyter%20Notebook&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -7,11 +18,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-<!--
-**kimho1wq/kimho1wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 -->
